@@ -1,5 +1,6 @@
 # Intro to Git
 Есть изменения
+и еще!
 
 ## English
 The project, which was created for implementation step-by-step guidelines for learning Git.
